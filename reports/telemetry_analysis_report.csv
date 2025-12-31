@@ -1,0 +1,16 @@
+satellite_id,temperature,voltage,current,orientation,rule_anomalies,ml_prediction,ml_result
+SAT-01,64,3.78,1.85,-20,False,1,Normal
+SAT-01,60,3.55,2.05,-15,False,1,Normal
+SAT-01,67,4.15,2.09,49,True,1,Normal
+SAT-01,85,3.8,2.66,59,True,1,Normal
+SAT-01,89,4.09,2.67,63,True,1,Normal
+SAT-02,92,3.1,1.48,-28,True,-1,ML Anomaly
+SAT-02,93,3.82,2.5,-64,True,-1,ML Anomaly
+SAT-02,66,2.73,2.27,17,True,1,Normal
+SAT-02,72,2.95,1.58,14,True,1,Normal
+SAT-02,61,2.78,3.17,-66,True,-1,ML Anomaly
+SAT-03,90,2.84,2.3,4,True,1,Normal
+SAT-03,90,3.68,2.5,48,True,1,Normal
+SAT-03,94,3.79,1.96,47,True,1,Normal
+SAT-03,66,3.56,2.72,-12,True,1,Normal
+SAT-03,61,3.06,2.29,30,False,1,Normal
